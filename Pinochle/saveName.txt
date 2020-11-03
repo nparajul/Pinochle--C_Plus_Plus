@@ -1,0 +1,6 @@
+Round: 1
+
+Computer:
+	Score: 0 / 0
+	Hand: 9C QC 10D AD QS JH 10C KS QC AC KC QH 
+	Capture Pile: 
