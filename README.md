@@ -23,14 +23,15 @@ A round is set up as follows:<br />
 After set up, the first player on the first turn is determined as follows:<br />
 - On the first round, a coin is tossed and the human player is asked to call the toss. If the call is correct, the human player plays first. Otherwise, computer plays first.<br />
 - On subsequent rounds, the player with the most points from previous rounds plays first. If there is a tie in points, the first player is determined using the mechanism described above for the first round.<br />
+
 The two players each play during each turn until both players have played all the cards in their hands.<br />
 
 # A Turn
 During a turn, the two players play as follows:<br />
-The first player plays a card from hand, called the lead card.<br />
-The other player plays a card from hand, called the chase card.<br />
-The winner of the turn is determined as follows:<br />
-  If the lead card is of trump suit, the chase card must be a larger card of trump suit to win.<br />
+- The first player plays a card from hand, called the lead card.<br />
+- The other player plays a card from hand, called the chase card.<br />
+- The winner of the turn is determined as follows:<br />
+ &nbsp; - If the lead card is of trump suit, the chase card must be a larger card of trump suit to win.<br />
   Note that cards in increasing value are: 9, Jack, Queen, King, Ten and Ace (highest value).<br />
   If the lead card is not of trump suit, the chase card must be a larger card of the same suit to win. Alternatively, it can be any card of trump suit to win. If chase card is neither of trump suit, nor of the suit of lead card, lead card wins.<br />
   If the lead and chase cards are exactly the same card (trump or non-trump), lead card wins.<br />
