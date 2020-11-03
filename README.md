@@ -44,7 +44,7 @@ During a turn, the two players play as follows:<br />
  &nbsp;- 2 points for each Jack.<br />
  
 - Winner (and only the winner) of the turn can declare a meld using cards from hand. The possible melds and the points earned for each are:<br />
- &nbsp;- Ace, Ten, King, Queen and Jack of Trump suit - called flush - 150 points<br />
+ - &nbsp;- Ace, Ten, King, Queen and Jack of Trump suit - called flush - 150 points<br />
  &nbsp;- King and Queen of Trump suit - called royal marriage - 40 points<br />
  &nbsp;- King and Queen of any other suit - called marriage - 20 points<br />
  &nbsp;- Nine of Trump suit - called dix - 10 points<br />
