@@ -581,7 +581,10 @@ map<string, vector<vector<Card*>>> Player::totalPossibleMelds(vector<Card*> card
 
 	for (int i = 1; i <= 5; i++) 
 	{
-		generateAllCardsCombo(combos, cards, i , 0 , 0, referencedCard);
+		if (i != 3)
+		{
+			generateAllCardsCombo(combos, cards, i, 0, 0, referencedCard);
+		}
 	}
 
 	map<string, vector<vector<Card*>>> possibleMelds;
