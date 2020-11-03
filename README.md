@@ -33,34 +33,39 @@ During a turn, the two players play as follows:<br />
 - The winner of the turn is determined as follows:<br />
  &nbsp;- If the lead card is of trump suit, the chase card must be a larger card of trump suit to win.<br />
   Note that cards in increasing value are: 9, Jack, Queen, King, Ten and Ace (highest value).<br />
-  If the lead card is not of trump suit, the chase card must be a larger card of the same suit to win. Alternatively, it can be any card of trump suit to win. If chase card is neither of trump suit, nor of the suit of lead card, lead card wins.<br />
-  If the lead and chase cards are exactly the same card (trump or non-trump), lead card wins.<br />
-The winner of the turn adds the lead and chase cards to own capture pile. The winner earns points for the lead and chase cards as follows:<br />
-  11 points for each Ace<br />
-  10 points for each Ten card<br />
-  4 points for each King<br />
-  3 points for each Queen<br />
-  2 points for each Jack.<br />
-Winner (and only the winner) of the turn can declare a meld using cards from hand. The possible melds and the points earned for each are:<br />
-  Ace, Ten, King, Queen and Jack of Trump suit - called flush - 150 points<br />
-  King and Queen of Trump suit - called royal marriage - 40 points<br />
-  King and Queen of any other suit - called marriage - 20 points<br />
-  Nine of Trump suit - called dix - 10 points<br />
-  Aces of four different suits - called four Aces - 100 points<br />
-  Kings of four different suits - called four Kings - 80 points<br />
-  Queens of four different suits - called four Queens - 60 points<br />
-  Jacks of four different suits - called four Jacks - 40 points<br />
-  Queen of Spades and Jack of Diamonds - called Pinochle - 40 points<br />
-The rules for melds are as follows:<br />
-  The player can make only one meld in a turn.<br />
-  The player can add to an earlier meld to create a new meld with a different name, e.g., add King to a Pinochle from an earlier turn to create a marriage. The player cannot add a fifth King to four of Kings to create a new four of Kings meld.<br />
-  The meld must contain at least one new card from hand.<br />
-All the cards in the meld are still part of the hand, and the player must play them on future turns.<br />
+ &nbsp;- If the lead card is not of trump suit, the chase card must be a larger card of the same suit to win. Alternatively, it can be any card of trump suit to win. If chase card is neither of trump suit, nor of the suit of lead card, lead card wins.<br />
+ &nbsp;- If the lead and chase cards are exactly the same card (trump or non-trump), lead card wins.<br />
+ 
+- The winner of the turn adds the lead and chase cards to own capture pile. The winner earns points for the lead and chase cards as follows:<br />
+ &nbsp;- 11 points for each Ace<br />
+ &nbsp;- 10 points for each Ten card<br />
+ &nbsp;- 4 points for each King<br />
+ &nbsp;- 3 points for each Queen<br />
+ &nbsp;- 2 points for each Jack.<br />
+ 
+- Winner (and only the winner) of the turn can declare a meld using cards from hand. The possible melds and the points earned for each are:<br />
+ &nbsp;- Ace, Ten, King, Queen and Jack of Trump suit - called flush - 150 points<br />
+ &nbsp;- King and Queen of Trump suit - called royal marriage - 40 points<br />
+ &nbsp;- King and Queen of any other suit - called marriage - 20 points<br />
+ &nbsp;- Nine of Trump suit - called dix - 10 points<br />
+ &nbsp;- Aces of four different suits - called four Aces - 100 points<br />
+ &nbsp;- Kings of four different suits - called four Kings - 80 points<br />
+ &nbsp;- Queens of four different suits - called four Queens - 60 points<br />
+ &nbsp;- Jacks of four different suits - called four Jacks - 40 points<br />
+ &nbsp;- Queen of Spades and Jack of Diamonds - called Pinochle - 40 points<br />
+ 
+- The rules for melds are as follows:<br />
+ &nbsp;- The player can make only one meld in a turn.<br />
+ &nbsp;- The player can add to an earlier meld to create a new meld with a different name, e.g., add King to a Pinochle from an earlier turn to create a marriage. The player cannot add a fifth King to four of Kings to create a new four of Kings meld.<br />
+&nbsp&nbsp; * The meld must contain at least one new card from hand.<br />
+ &nbsp;- All the cards in the meld are still part of the hand, and the player must play them on future turns.<br />
 The melds of each player are displayed separately from the hand.<br />
-Winner picks the next card from the stock.<br />
-The other player picks the next card from the stock. If the winner picked the last card from the stock, the other player picks the trump card.<br />
-Note that once the stock is exhausted, the game continues without either player picking any new card.<br />
-Winner will play first on the next turn.<br />
+
+- Winner picks the next card from the stock.<br />
+- The other player picks the next card from the stock. If the winner picked the last card from the stock, the other player picks the trump card.<br />
+ &nbsp;- Note that once the stock is exhausted, the game continues without either player picking any new card.<br />
+ 
+- Winner will play first on the next turn.<br />
 
 # A Game
 A game consists of as many rounds as the human player wants to play. The human player is asked before each round whether the player wants to play another round.<br />
