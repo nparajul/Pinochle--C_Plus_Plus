@@ -71,7 +71,7 @@ the two cards captured during the turn;
 any new meld created during that turn.
 Winning strategy involves both picking the card from hand to play during each turn and finding a meld to declare during the turn, if available.
 
-#Computer Player's Strategy
+# Computer Player's Strategy
 The computer player plays to win. It has a strategy for:
   the card to play from its hand
     when it is the lead player of the turn - it will want to take possible melds into account before playng a card;
