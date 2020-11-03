@@ -57,7 +57,7 @@ During a turn, the two players play as follows:<br />
 - The rules for melds are as follows:<br />
  &nbsp;- The player can make only one meld in a turn.<br />
  &nbsp;- The player can add to an earlier meld to create a new meld with a different name, e.g., add King to a Pinochle from an earlier turn to create a marriage. The player cannot add a fifth King to four of Kings to create a new four of Kings meld.<br />
-&nbsp&nbsp; * The meld must contain at least one new card from hand.<br />
+&nbsp;&nbsp; * The meld must contain at least one new card from hand.<br />
  &nbsp;- All the cards in the meld are still part of the hand, and the player must play them on future turns.<br />
 The melds of each player are displayed separately from the hand.<br />
 
