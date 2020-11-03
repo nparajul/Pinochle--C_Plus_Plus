@@ -15,13 +15,13 @@ In addition, a stock pile is part of the game.<br />
 
 # A Round
 A round is set up as follows:<br />
-The deck is shuffled.<br />
-The cards are dealt, four at a time, to the two players, starting with the human player, i.e., human player is dealt 4 cards, computer is dealt 4 cards, human player is dealt the next 4 cards and so on till both the players have 12 cards each in their hand.<br />
-The next card is placed face up on the table. The suit of this card is the trump suit.<br />
-The remaining cards are left in the stock pile, face down.<br />
+- The deck is shuffled.<br />
+- The cards are dealt, four at a time, to the two players, starting with the human player, i.e., human player is dealt 4 cards, computer is dealt 4 cards, human player is dealt the next 4 cards and so on till both the players have 12 cards each in their hand.<br />
+- The next card is placed face up on the table. The suit of this card is the trump suit.<br />
+- The remaining cards are left in the stock pile, face down.<br />
 After set up, the first player on the first turn is determined as follows:<br />
-  On the first round, a coin is tossed and the human player is asked to call the toss. If the call is correct, the human player plays first. Otherwise, computer plays first.<br />
-  On subsequent rounds, the player with the most points from previous rounds plays first. If there is a tie in points, the first player is determined using the mechanism described above for the first round.<br />
+- On the first round, a coin is tossed and the human player is asked to call the toss. If the call is correct, the human player plays first. Otherwise, computer plays first.<br />
+- On subsequent rounds, the player with the most points from previous rounds plays first. If there is a tie in points, the first player is determined using the mechanism described above for the first round.<br />
 The two players each play during each turn until both players have played all the cards in their hands.<br />
 
 # A Turn
