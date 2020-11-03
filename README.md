@@ -74,13 +74,15 @@ If the human player replies no, the game is ended and the player with the most p
 
 # Score
 On each turn, the winner earns points for:<br />
-the two cards captured during the turn;<br />
-any new meld created during that turn.<br />
+- the two cards captured during the turn;<br />
+- any new meld created during that turn.<br />
+
 Winning strategy involves both picking the card from hand to play during each turn and finding a meld to declare during the turn, if available.<br />
 
 # Computer Player's Strategy
 The computer player plays to win. It has a strategy for:<br />
-  the card to play from its hand<br />
-    when it is the lead player of the turn - it takes possible melds into account before playng a card;<br />
-    when it is the chase player of the turn - it tries to win the turn as inexpensively as possible, i.e., use Trump cards only when absolutely necessary.<br />
-    the meld to declare on each turn it wins - it picks the meld that will yield the most points.<br />
+- the card to play from its hand<br />
+ &nbsp;-  when it is the lead player of the turn - it takes possible melds into account before playng a card;<br />
+ &nbsp;-  when it is the chase player of the turn - it tries to win the turn as inexpensively as possible, i.e., use Trump cards only when absolutely necessary.<br />
+ 
+- the meld to declare on each turn it wins - it picks the meld that will yield the most points.<br />
